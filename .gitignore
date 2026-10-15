@@ -47,3 +47,7 @@ output4.jpg
 output5.png
 output6.mp4
 outputLarge.mp4
+
+.idea/
+*.iml
+out/
